@@ -26,7 +26,7 @@
     "@google-cloud/translate": "^6.3.1",
     "@google-cloud/vision": "^2.4.2",
     "@hapi/iron": "^6.0.0",
-    "@mui/icons-material": "^5.4.2",
+    "@mui/icons-material": "^5.8.4",
     "@mui/lab": "^5.0.0-alpha.71",
     "@mui/material": "^5.4.0",
     "assert-strict": "^0.0.2",
